@@ -1,4 +1,5 @@
 public class Slo {
 
-    private  String name;
+    private  String jack;
+    private String  na;
 }
